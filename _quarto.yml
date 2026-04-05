@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Madison Ballard - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/mballard181/mballard181.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Madison Ballard 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: www.linkedin.com/in/madison-ballard181
 
   navbar:
     background: primary
@@ -48,19 +48,19 @@ website:
           file: cleansing.qmd
         - text: "---"
         - text: "Project 1"
-          file: Cleansing_Projects/project1.qmd
+          file: Cleansing_Projects/P1_template.qmd
         - text: "---"
         - text: "Project 2"
-          file: Cleansing_Projects/project2.qmd
+          file: Cleansing_Projects/P2_template.qmd
         - text: "---"
         - text: "Project 3"
-          file: Cleansing_Projects/project3.qmd
+          file: Cleansing_Projects/P3_template.qmd
         - text: "---"
         - text: "Project 4"
-          file: Cleansing_Projects/project4.qmd
+          file: Cleansing_Projects/P4_template.qmd
         - text: "---"
         - text: "Project 5"
-          file: Cleansing_Projects/project5.qmd
+          file: Cleansing_Projects/P5_template.qmd
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
@@ -70,19 +70,19 @@ website:
           file: exploration.qmd
         - text: "---"
         - text: "Project 1"
-          file: Exploration_Projects/project1.qmd
+          file: Exploration_Projects/P1_template.qmd
         - text: "---"
         - text: "Project 2"
-          file: Exploration_Projects/project2.qmd
+          file: Exploration_Projects/P2_template.qmd
         - text: "---"
         - text: "Project 3"
-          file: Exploration_Projects/project3.qmd
+          file: Exploration_Projects/P3_template.qmd
         - text: "---"
         - text: "Project 4"
-          file: Exploration_Projects/project4.qmd
+          file: Exploration_Projects/P4_template.qmd
         - text: "---"
         - text: "Project 5"
-          file: Exploration_Projects/project5.qmd
+          file: Exploration_Projects/P5_template.qmd
         - text: "---"
     - title: "Story Telling"
       style: "docked"
@@ -92,19 +92,19 @@ website:
           file: story_telling.qmd
         - text: "---"
         - text: "Project 1"
-          file: Story_Telling/project1.qmd
+          file: Story_Telling/P1_template.qmd
         - text: "---"
         - text: "Project 2"
-          file: Story_Telling/project2.qmd
+          file: Story_Telling/P2_template.qmd
         - text: "---"
         - text: "Project 3"
-          file: Story_Telling/project3.qmd
+          file: Story_Telling/P3_template.qmd
         - text: "---"
         - text: "Project 4"
-          file: Story_Telling/project4.qmd
+          file: Story_Telling/P4_template.qmd
         - text: "---"
         - text: "Project 5"
-          file: Story_Telling/project5.qmd
+          file: Story_Telling/P5_template.qmd
         - text: "---"
     - title: "Machine Learning"
       style: "docked"
@@ -114,19 +114,19 @@ website:
           file: ml.qmd
         - text: "---"
         - text: "Project 1"
-          file: Machine_Learning/project1.qmd
+          file: Machine_Learning/P1_template.qmd
         - text: "---"
         - text: "Project 2"
-          file: Machine_Learning/project2.qmd
+          file: Machine_Learning/P2_template.qmd
         - text: "---"
         - text: "Project 3"
-          file: Machine_Learning/project3.qmd
+          file: Machine_Learning/P3_template.qmd
         - text: "---"
         - text: "Project 4"
-          file: Machine_Learning/project4.qmd
+          file: Machine_Learning/P4_template.qmd
         - text: "---"
         - text: "Project 5"
-          file: Machine_Learning/project5.qmd
+          file: Machine_Learning/P5_template.qmd
         - text: "---"
     - title: "Full Stack"
       style: "docked"
@@ -136,19 +136,19 @@ website:
           file: full_stack.qmd
         - text: "---"
         - text: "Project 1"
-          file: Full_Stack/project1.qmd
+          file: Full_Stack/P1_template.qmd
         - text: "---"
         - text: "Project 2"
-          file: Full_Stack/project2.qmd
+          file: Full_Stack/P2_template.qmd
         - text: "---"
         - text: "Project 3"
-          file: Full_Stack/project3.qmd
+          file: Full_Stack/P3_template.qmd
         - text: "---"
         - text: "Project 4"
-          file: Full_Stack/project4.qmd
+          file: Full_Stack/P4_template.qmd
         - text: "---"
         - text: "Project 5"
-          file: Full_Stack/project5.qmd
+          file: Full_Stack/P5_template.qmd
         - text: "---"
     - title: "Competition"
       style: "docked"
@@ -158,19 +158,19 @@ website:
           file: competition.qmd
         - text: "---"
         - text: "Project 1"
-          file: Competition/project1.qmd
+          file: Competition/P1_template.qmd
         - text: "---"
         - text: "Project 2"
-          file: Competition/project2.qmd
+          file: Competition/P2_template.qmd
         - text: "---"
         - text: "Project 3"
-          file: Competition/project3.qmd
+          file: Competition/P3_template.qmd
         - text: "---"
         - text: "Project 4"
-          file: Competition/project4.qmd
+          file: Competition/P4_template.qmd
         - text: "---"
         - text: "Project 5"
-          file: Competition/project5.qmd
+          file: Competition/P5_template.qmd
         - text: "---"
   
 format:  
